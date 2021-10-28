@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue) <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=retributions&theme=tokyonight&rank=S,AAA)](https://github.com/retributions-ma/github-profile-trophy) <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=retributions&theme=tokyonight&rank=A)](https://github.com/retributions-ma/github-profile-trophy) <br>
 - - - -
 
 <h3 align="left">Reach Out To Me</h3>

@@ -4,9 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retributions&langs_count=8&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/retributions/github-readme-stats) <br>
 
-![](https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue) <br>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=retributions&theme=tokyonight)](https://github.com/retributions-ma/github-profile-trophy) <br>
+
+![View](https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue) <br>
 - - - -
 
 <h3 align="left">Reach Out To Me</h3>

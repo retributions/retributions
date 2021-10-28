@@ -1,3 +1,5 @@
+
+- - - -
 [![Solar's GitHub stats](https://github-readme-stats.vercel.app/api?username=retributions&show_icons=true&theme=tokyonight)](https://github.com/retributions/github-readme-stats) <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retributions&langs_count=8&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/retributions/github-readme-stats) <br>
@@ -5,6 +7,8 @@
 ![](https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue) <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=retributions" alt="retributions" /></a> </p>
+  
+- - - -
 
 <h3 align="left">Reach Out To Me</h3>
 <p align="left">

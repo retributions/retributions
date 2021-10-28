@@ -1,6 +1,4 @@
 <p align="center"><img width="500" height="500" src="https://cdn.discordapp.com/attachments/790266938919092224/835653936298852373/image0.gif%22%3E"</p>
-  
-<p align="center">Discord</p> <p align="center"> <a href="https://discord.com/users/799447765263319049"</p>
 
 ## Stats ##
 [![Solar's GitHub stats](https://github-readme-stats.vercel.app/api?username=retributions&show_icons=true&theme=tokyonight)](https://github.com/retributions/github-readme-stats) <br>
@@ -15,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/realsolar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realsolar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/solar1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="solar1337" height="30" width="40" /></a>
-<a href="https://discord.gg/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="profile" height="30" width="40" /></a>
+<a href="https://discord.com/user/799447765263319049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="profile" height="30" width="40" /></a>
 </p>
 
 

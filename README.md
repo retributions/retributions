@@ -1,6 +1,6 @@
 <p align="center"><img width="500" height="500" src="https://cdn.discordapp.com/attachments/790266938919092224/835653936298852373/image0.gif%22%3E"</p>
 
-<p align="left"> <a href="https://twitter.com/realsolar" target="blank"><img src="https://img.shields.io/twitter/follow/realsolar?logo=twitter&style=for-the-badge" alt="realsolar" /></a> </p>
+<p align="center"> <a href="https://discord.com/users/799447765263319049" </p>
 
 ## Stats ##
 [![Solar's GitHub stats](https://github-readme-stats.vercel.app/api?username=retributions&show_icons=true&theme=tokyonight)](https://github.com/retributions/github-readme-stats) <br>

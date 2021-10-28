@@ -4,6 +4,17 @@
 
 ![](https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue) <br>
 
-<p align="center">solar#7777</p> <p align="center"> <a href="https://discord.gg/profile">Discord</a> ✰ <a href="https://www.youtube.com/channel/UCNdjCahO5IkmVxPaIAPXQAw">Youtube</a> ✰ <a href="https://twitter.com/RealSolar">Twitter</a> ✰ <a href="https://www.instagram.com/realsolarr2/">Instagram</a> <br><br> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=retributions" alt="retributions" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/realsolar" target="blank"><img src="https://img.shields.io/twitter/follow/realsolar?logo=twitter&style=for-the-badge" alt="realsolar" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/realsolar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realsolar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/solar1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="solar1337" height="30" width="40" /></a>
+<a href="https://discord.gg/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="profile" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=retributions&show_icons=true&locale=en&layout=compact" alt="retributions" /></p>
 
 

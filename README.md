@@ -1,6 +1,6 @@
 <p align="center"><img width="500" height="500" src="https://cdn.discordapp.com/attachments/790266938919092224/835653936298852373/image0.gif%22%3E"</p>
   
-![](https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue)![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=blue) 
+![](https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=blue) 
 </p>
 
 ## Stats ##

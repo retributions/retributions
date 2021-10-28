@@ -1,3 +1,5 @@
+<p align="center"><img width="500" height="500" src="https://cdn.discordapp.com/attachments/790266938919092224/835653936298852373/image0.gif%22%3E"</p>
+
 ## Stats ##
 [![Solar's GitHub stats](https://github-readme-stats.vercel.app/api?username=retributions&show_icons=true&theme=tokyonight)](https://github.com/retributions/github-readme-stats) <br>
 

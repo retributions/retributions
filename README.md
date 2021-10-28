@@ -1,4 +1,6 @@
 <p align="center"><img width="500" height="500" src="https://cdn.discordapp.com/attachments/790266938919092224/835653936298852373/image0.gif%22%3E"</p>
+  
+<p align="center">![View](https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue)</p>
 
 ## Stats ##
 [![Solar's GitHub stats](https://github-readme-stats.vercel.app/api?username=retributions&show_icons=true&theme=tokyonight)](https://github.com/retributions/github-readme-stats) <br>
@@ -6,8 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retributions&langs_count=8&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/retributions/github-readme-stats) <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=retributions&theme=tokyonight)](https://github.com/retributions-ma/github-profile-trophy) <br>
-
-![View](https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue) <br>
 
 <h2 align="left">Reach Out To Me</h2>
 <p align="left">

@@ -1,4 +1,4 @@
-<p align="center"><img width="480" height="270" src="https://cdn.discordapp.com/attachments/816128594908676136/903083928192180276/solar_laroi.gif"</p>
+<p align="center"><img width="480" height="270" src="https://cdn.discordapp.com/attachments/816128594908676136/903083897326280726/laroi_L.gif"</p>
   
 <p align="center"><img src="https://discord.c99.nl/widget/theme-4/799447765263319049.png"</p>
   

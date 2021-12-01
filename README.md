@@ -4,7 +4,7 @@
   
  </p>
 
-</details>
+<details>
 <summary>Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=retributions&show_icons=true&theme=tokyonight">
 </details>

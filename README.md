@@ -2,7 +2,7 @@
   
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/832383090844368946.png"</p>
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/843665233084022794)](https://discord.com/users/843665233084022794)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/832383090844368946)](https://discord.com/users/832383090844368946)
   
 <p align="center"><img src="https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue"</p> <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=blue"<br>
   

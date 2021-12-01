@@ -5,16 +5,19 @@
  </p>
 
 <details>
-<summary>Stats</summary>
+<summary>stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=retributions&show_icons=true&theme=tokyonight">
 </details>
 
-## Stats ##
-[![Solar's GitHub stats](https://github-readme-stats.vercel.app/api?username=retributions&show_icons=true&theme=tokyonight)](https://github.com/retributions/github-readme-stats) <br>
+<details>
+<summary>lang</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retributions&langs_count=8&layout=compact&theme=tokyonight&show_icons=true">
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retributions&langs_count=8&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/retributions/github-readme-stats) <br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=retributions&theme=tokyonight)](https://github.com/retributions-ma/github-profile-trophy) <br>
+<details>
+<summary>trophy</summary>
+<img src="https://github-profile-trophy.vercel.app/?username=retributions&theme=tokyonight)](https://github.com/retributions-ma/github-profile-trophy">
+</details>
 
 <h2 align="left">Reach Out To Me</h2>
 <p align="left">

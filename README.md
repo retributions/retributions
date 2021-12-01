@@ -1,6 +1,6 @@
 <p align="center"><img width="480" height="270" src="https://cdn.discordapp.com/attachments/816128594908676136/903083897326280726/laroi_L.gif"</p>
    
-<p align="center">[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/832383090844368946)](https://discord.com/users/832383090844368946)</p>
+<p align="center">(https://lanyard-profile-readme.vercel.app/api/832383090844368946)](https://discord.com/users/832383090844368946)</p>
   
 <p align="center"><img src="https://komarev.com/ghpvc/?username=retributions&style=plastic&color=blue"</p> <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=blue"<br>
   

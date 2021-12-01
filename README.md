@@ -10,12 +10,12 @@
 </details>
 
 <details>
-<summary>lang</summary>
+<summary>languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retributions&langs_count=8&layout=compact&theme=tokyonight&show_icons=true">
 </details>
 
 <details>
-<summary>trophy</summary>
+<summary>trophies</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=retributions&theme=tokyonight)](https://github.com/retributions-ma/github-profile-trophy">
 </details>
 

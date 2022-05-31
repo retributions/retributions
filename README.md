@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/realsolar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realsolar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/solar1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="solar1337" height="30" width="40" /></a>
-<a href="https://discord.com/user/799447765263319049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="profile" height="30" width="40" /></a>
+<a href="https://discord.com/user/832383090844368946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="profile" height="30" width="40" /></a>
 </p>
 
 

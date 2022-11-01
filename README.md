@@ -27,4 +27,4 @@
 </p>
 
 
-
+<p align="center"><a href="https://discordbotlist.com/bots/973993334718726165"><img src="https://discordbotlist.com/api/v1/bots/973993334718726165/widget"></a>
